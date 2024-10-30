@@ -6,6 +6,8 @@
 - https://www.linkedin.com/in/benjamin-tan1013/
 - Yoshimoto Kamiota, Morioka, Iwate 020-0053, Japan
 - https://g.co/kgs/VxTdPM4
+- Singapore Institution of Technology • Singapore, Singapore
+- Bachelor’s Degree in Computer Science 2013 - 2017
 ---
 
 ## 2. Small Talk
@@ -39,6 +41,8 @@
   - **CEO:** “I agree. The AR aspect can really differentiate your offering.”
 
 ---
+
+
 
 ## 7. Setting the Agenda
 - **You:** “Great! I’d like to discuss our implementation strategy, potential challenges, and how we can collaborate effectively. Does that sound good to you?”
