@@ -3,7 +3,9 @@
 ## 1. Greeting and Introduction
 - **You:** “Good [morning/afternoon], [Investor’s Name] and [CEO’s Name]. Thank you both for taking the time to meet with me today. I appreciate this opportunity.”
 - **Investor/CEO:** “Good [morning/afternoon]! It’s great to be here.”
-
+- https://www.linkedin.com/in/benjamin-tan1013/
+- Yoshimoto Kamiota, Morioka, Iwate 020-0053, Japan
+- https://g.co/kgs/VxTdPM4
 ---
 
 ## 2. Small Talk
