@@ -5,6 +5,10 @@ Hello, I'm Ben! I am a **Senior Blockchain Developer** and **Full Stack Develope
 
 I lead a diverse team of talented developers who share a collaborative spirit. We believe that teamwork is key to overcoming challenges and achieving our goals. Together, we are eager to embrace new opportunities that allow us to contribute to the advancement of civilization and make a meaningful impact.
 
+こんにちは、ベンジャミンです。私はシニアブロックチェーン開発者であり、管理経験のあるフルスタック開発者です。私は、経済のさまざまな分野でますます重要になっている AI とブロックチェーン技術に重点を置いています。私はこれらの分野に情熱を注いでおり、その可能性を活用する数多くのプロジェクトを開発してきました。
+
+私は、協力的な精神を共有する才能ある開発者の多様なチームを率いています。私たちは、チームワークが課題を克服し、目標を達成するための鍵であると信じています。私たちは一緒に、文明の進歩に貢献し、有意義な影響を与えることができる新しい機会を積極的に受け入れたいと思っています。
+
 ## Education
 - **Institution**: Singapore Institution of Technology
 - **Degree**: Bachelor’s in Computer Science
@@ -67,3 +71,4 @@ I have a strong background in **Virtual Reality (VR)** and **Augmented Reality (
 ---
 
 Benjamin's name is translated into Japanese Katakana as ベンジャミン (benjamin) and can also be represented in Hiragana as べんじゃみん. The name has Hebrew origins, meaning "son of the right hand" or "son of the south," and is widely used across different cultures.
+
