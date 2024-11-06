@@ -4,7 +4,7 @@
 - **You:** hi everyone. Thank you both for taking the time to meet with me today. I appreciate this opportunity.”
 - **Investor/CEO:** “Good [morning/afternoon]! It’s great to be here.”
 - https://www.linkedin.com/in/benjamin-tan1013/
-- Yoshimoto Kamiota, Morioka, Iwate 020-0053, Japan
+- Morioka, Iwate 020-0053, Japan
 - https://g.co/kgs/VxTdPM4
 - Singapore Institution of Technology • Singapore, Singapore
 - Bachelor’s Degree in Computer Science 2013 - 2017
